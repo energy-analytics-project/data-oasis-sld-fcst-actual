@@ -2484,3 +2484,10 @@ http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_FCST&market_run_id=ACTUA
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_FCST&market_run_id=ACTUAL&startdatetime=20191020T08:00-0000&enddatetime=20191021T08:00-0000&version=1
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_FCST&market_run_id=ACTUAL&startdatetime=20191021T08:00-0000&enddatetime=20191022T08:00-0000&version=1
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_FCST&market_run_id=ACTUAL&startdatetime=20191022T08:00-0000&enddatetime=20191023T08:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_FCST&market_run_id=ACTUAL&startdatetime=20191023T08:00-0000&enddatetime=20191024T08:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_FCST&market_run_id=ACTUAL&startdatetime=20191024T08:00-0000&enddatetime=20191025T08:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_FCST&market_run_id=ACTUAL&startdatetime=20191025T08:00-0000&enddatetime=20191026T08:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_FCST&market_run_id=ACTUAL&startdatetime=20191026T08:00-0000&enddatetime=20191027T08:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_FCST&market_run_id=ACTUAL&startdatetime=20191027T08:00-0000&enddatetime=20191028T08:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_FCST&market_run_id=ACTUAL&startdatetime=20191028T08:00-0000&enddatetime=20191029T08:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_FCST&market_run_id=ACTUAL&startdatetime=20191029T08:00-0000&enddatetime=20191030T08:00-0000&version=1
